@@ -1,0 +1,10 @@
+//Please run this command to update the autoload files:
+//composer dump-autoload
+
+
+"autoload": {
+    "files": [
+        "app/Helpers/BackgroundJobHelper.php"
+    ]
+}
+
